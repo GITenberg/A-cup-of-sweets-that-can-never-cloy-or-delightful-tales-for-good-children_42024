@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41483'
     url: http://www.gutenberg.org/2009/agents/41483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42024#A-cup-of-sweets-that-can-never-cloy-or-delightful-tales-for-good-children
 gutenberg_issued: '2013-02-05'
 gutenberg_type: Text
 identifiers:
